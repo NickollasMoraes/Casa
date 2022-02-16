@@ -18,7 +18,6 @@ body{background-color: gray;
 .menu > a{
     text-decoration: none;
     color: #00ff00;
-    font-size: 30px;
 }
 .listafilmes img{
     margin-top: 30px;margin-left: 40px;
