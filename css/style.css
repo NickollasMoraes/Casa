@@ -28,3 +28,6 @@ body{background-color: gray;
 .listafilmes h2{
     margin-top: 30px;margin-left: 40px;
 }
+.emct img{
+    width: 100%;
+}
